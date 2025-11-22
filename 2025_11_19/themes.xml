@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Zadanka2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <!--Motywy-->
+    <!--
+        1. Theme.AppCompat.DayNight.DarkActionBar
+        2. Theme.Material3.Dark.NoActionBar
+        3. Theme.Material3.DayNight.NoActionBar
+        4. Theme.Design.Light.NoActionBar
+        5. Theme.MaterialComponents.DayNight.DarkActionBar
+        6. Theme.AppCompat.Dialog.MinWidth
+        7. Theme.MaterialComponents.Dialog.Alert
+        8. Theme.Design.BottomSheetDialog
+
+    -->
+
+    <style name="Theme.Zadanka2" parent="Base.Theme.Zadanka2" />
+</resources>
