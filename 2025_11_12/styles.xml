@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="header">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_row">0</item>
+        <item name="android:layout_column">0</item>
+        <item name="android:layout_columnSpan">3</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/purple</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnSpan">1</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="input">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnSpan">2</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_width">175dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnSpan">3</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:backgroundTint">@color/purple</item>
+    </style>
+
+    <style name="smallInfo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">end</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@color/dimmedGrey</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+</resources>
