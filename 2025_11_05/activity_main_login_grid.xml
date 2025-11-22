@@ -64,7 +64,7 @@
             android:layout_gravity="end"
             android:layout_marginRight="20dp"
             android:ems="10"
-            android:inputType="numberPassword" />
+            android:inputType="textPassword" />
 
 
     <Button
