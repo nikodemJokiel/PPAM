@@ -4,13 +4,15 @@
     <string name="name">Imię</string>
     <string name="surname">Nazwisko</string>
     <string name="classname">Klasa</string>
-    <string name="note">Zapisz uwagę</string>
+    <string name="note">ZAPISZ UWAGĘ</string>
     <string name="logo">Logo ZSK</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="back">DODAJ NOWĄ UWAGĘ</string>
+    <string name="reported">Zapisano uwagę</string>
 
 
 </resources>

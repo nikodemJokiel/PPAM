@@ -13,8 +13,7 @@
         android:theme="@style/Theme._2026_03_04">
         <activity
             android:name=".ReportedActivity"
-            android:exported="false"
-            android:theme="@style/Theme._2026_03_04" />
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

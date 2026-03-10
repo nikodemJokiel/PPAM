@@ -1,12 +1,13 @@
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme._2026_03_04" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="Base.Theme._2026_02_11" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="android:windowFullscreen">true</item>
     </style>
 
-    <style name="Theme._2026_03_04" parent="Base.Theme._2026_03_04" />
+    <style name="Theme._2026_03_04" parent="Base.Theme._2026_02_11" />
     <style name="heading">
         <item name="android:textColor">@color/primaryColor</item>
         <item name="android:textSize">32sp</item>
